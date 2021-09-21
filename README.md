@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/yaohaifeng/Azure%20Pipeline%20Demo/_apis/build/status/YAO-Haifeng.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/yaohaifeng/Azure%20Pipeline%20Demo/_build/latest?definitionId=3&branchName=build-pipeline)
+[![Build Status](https://dev.azure.com/yaohaifeng/Azure%20Pipeline%20Demo/_apis/build/status/YAO-Haifeng.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/yaohaifeng/Azure%20Pipeline%20Demo/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
